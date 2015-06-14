@@ -6,7 +6,7 @@ And you learn the most when you figure it out for yourself.
 
 So please follow these steps whenever you get stuck or have a question:
 
-1. Google it! Googling for anwswers is an essential skill for all human beings on this planet but especially programmers. If I catch you not googling for things I'm going to troll you with 
+1. Google it! Googling for anwswers is an essential skill for all human beings on this planet but especially programmers. If I catch you not googling for things I'm going to troll you with http://lmgtfy.com/.
 2. Post it in the skype chat. 
 3. Raise your hand and I'll come to you.
 
