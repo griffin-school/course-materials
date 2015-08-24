@@ -33,7 +33,7 @@ You are free and encouraged to choose other courses not on this list that you ar
 TODO: List of electives
 
 ### Student Success
-This class is designed to accomidate beginner and advanced students. If you are beginner and you work hard but don't make it all the way through the electives, that's ok. If you are an advanced student and can get through all of the courses quickly, you are expected to move on to complete more electives. Go through these courses at your own pace. Grading is largely based on effort, as long as you work hard and put in effort you'll do great and learn a lot.
+This class is designed to accomidate beginner and advanced students. If you are beginner and you work hard but don't make it all the way through the electives, that's ok. If you are an advanced student and can get through all of the courses quickly, you are expected to move on to complete more electives. Try to get as much out of this class as possible! Grading is largely based on effort, as long as you work hard and put in effort you'll do great and learn a lot.
 
 
 
