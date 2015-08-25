@@ -5,7 +5,7 @@ This page will be used to enumerate the many online learning resources
 * [Khan Academy](https://www.khanacademy.org/)
 * [Code School](https://www.codeschool.com/)
 * [Code Academy](https://www.codecademy.com/)
-* [Udacity[(https://codehs.com/)
+* [Udacity](https://codehs.com/)
 * [Coursera](https://www.coursera.org/)
 * [Udemy](https://www.udemy.com/)
 * [Treehouse](https://teamtreehouse.com/)
