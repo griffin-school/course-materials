@@ -19,7 +19,7 @@ My skype name is **griffincoding**. Once you sign in, add me as a contact and I 
 
 I'll post futher instructions in the chat when everyone is in.
 
-Also, read [this](./figure-it-out.md)
+While you are waiting, read [this](./figure-it-out.md)
 
 
 
