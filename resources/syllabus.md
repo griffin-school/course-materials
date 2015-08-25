@@ -15,7 +15,7 @@ Students must complete several required online courses, several  elective online
 ##### Online Courses
 * Khan Academy -- [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
 * Khan Academy -- [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
-* Khan Academy -- [HTML/JS making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
+* Khan Academy -- [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
 * Code Academy -- [Learn the command line](https://www.codecademy.com/courses/learn-the-command-line)
 
 ##### Project
