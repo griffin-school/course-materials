@@ -25,12 +25,15 @@ Make your own webpage! (More details to come)
 These courses can be used to help students complete the reqired courses
 * Code Acadamy -- [JavaScript](https://www.codecademy.com/tracks/javascript)
 * Code Academy -- [HTML & CSS](https://www.codecademy.com/tracks/web)
-* Code School -- [JavaScript Road Trip](https://www.codeschool.com/courses/javascript-road-trip-part-1) 
+* Code Academy -- [Make a website](https://www.codecademy.com/skills/make-a-website)
+* Code Academy -- [Make a website projects](https://www.codecademy.com/courses/html-css-prj)
+* Code Academy -- [Make an interactive](https://www.codecademy.com/skills/make-an-interactive-website)
+* Code School -- [JavaScript Road Trip](https://www.codeschool.com/courses/javascript-road-trip-part-1)
+* [Code Combat](https://codecombat.com/)
 
 ### Elective Courses
-You must complete at least 2 elective courses. Here is a short list of  courses that you can choose from. See online courses for a list of online learning resources. You are free and encouraged to choose other courses not on this list that you are more interested in.
+You must complete at least two elective courses. Here is a short list of  courses that you can choose from. See online courses for a list of online learning resources. You are free and encouraged to choose other courses not on this list that you are more interested in.
 
-#### Free courses	
 * Kahn Aacademy -- [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 * Kahn Aacademy -- [Advanced JS: Games and Visualizations](
 * Kahn Academy -- [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
@@ -39,15 +42,13 @@ You must complete at least 2 elective courses. Here is a short list of  courses 
 * Code School -- [Try Ruby](https://www.codeschool.com/courses/try-ruby)
 * Code School -- [Try SQL](https://www.codeschool.com/courses/try-sql)
 * Code School -- [Try JQuery](https://www.codeschool.com/courses/try-jquery)
+* Code School -- [Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
+* Code School -- [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
 * Code School -- [Chrome Dev Tools Tutorial](https://www.codeschool.com/courses/discover-devtools)
 * Code Academy -- [Python](https://www.codecademy.com/en/tracks/python)
+* Code Academy -- [
 * Udacity -- [Intro to Java Programming](https://www.udacity.com/course/intro-to-java-programming--cs046)
 * Udacity -- [Web Development](https://www.udacity.com/course/web-development--cs253)
-	
-Paid Courses	
-	Code School -- Rails For Zombies 2
-
-You can choose 
 
 ### Student Success
 This class is designed to accomidate beginner and advanced students. If you are beginner and you work hard but don't make it all the way through the electives, that's ok. If you are an advanced student and can get through all of the courses quickly, you are expected to move on to complete more electives. Try to get as much out of this class as possible! Grading is largely based on effort, as long as you work hard and put in effort you'll do great and learn a lot.
