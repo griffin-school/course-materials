@@ -6,7 +6,6 @@ Welcome to **Introduction to Programming** at Griffin! First things, first. Let'
 * Previous programming experience or interests
 
 Ok, now I'm going to tell you all more about this class.
-(TODO: Link to presentation)
 
 # Lets get started! 
 ## Setup Skype
