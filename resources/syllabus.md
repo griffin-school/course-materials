@@ -22,7 +22,7 @@ Students must complete several required online courses, several  elective online
 Make your own webpage! (More details to come)
 
 ### Supplemental Online Courses
-These courses can be used to help students complete the reqired courses
+These courses can be used to help students complete the required courses
 * Code Acadamy -- [JavaScript](https://www.codecademy.com/tracks/javascript)
 * Code Academy -- [HTML & CSS](https://www.codecademy.com/tracks/web)
 * Code Academy -- [Make a website](https://www.codecademy.com/skills/make-a-website)
