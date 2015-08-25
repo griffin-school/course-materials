@@ -44,7 +44,6 @@ You must complete at least two elective courses. Here is a short list of  course
 * Code School -- [Try JQuery](https://www.codeschool.com/courses/try-jquery)
 * Code School -- [Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
 * Code School -- [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
-* Code School -- [Chrome Dev Tools Tutorial](https://www.codeschool.com/courses/discover-devtools)
 * Udacity -- [Intro to Java Programming](https://www.udacity.com/course/intro-to-java-programming--cs046)
 * Udacity -- [Web Development](https://www.udacity.com/course/web-development--cs253)
 
