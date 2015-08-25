@@ -13,7 +13,7 @@ In the software industry, every company uses some kind of chat to communicate wi
 We'll be using Skype in this class.
 
 ## Setup Skype
-Your first challenge ;) is to install Skype on your computer. If you already have skype installed, you may want to create a separate user for this class. Up to you. 
+Your first challenge ;) is to install [Skype](http://www.skype.com) on your computer. If you already have skype installed, you may want to create a separate user for this class. Up to you. 
 
 My skype name is **griffincoding**. Once you sign in, add me as a contact and I will add you to the class chat. Once you are added to the class chat, say "Hello"!.
 
