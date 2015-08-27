@@ -23,7 +23,7 @@ While you are waiting, read [this](./figure-it-out.md)
 
 
 
-
+Coptyright 2015 miles silberling-cook
 
 
 
