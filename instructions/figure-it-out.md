@@ -10,3 +10,4 @@ So please follow these steps whenever you get stuck or have a question:
 2. Post it in the skype chat. 
 3. If no one responds in the skype chat, ask me!. If we are in class, raise your hand and I'll come to you. If we're not in class, send me an email (nick@griffinschool.com) describing your situation and I'll respond whenever I can.
 
+
