@@ -29,18 +29,18 @@ In the *Khan Academy: Intro to JS: Drawing an Animation* course whenever you wer
 ### Include Processing.js Library in your page
 To use Processing.js you need to include it in your webpage. We're going to use a publicly available CDN.
 
-```
+```html
 <script src="http://cdnjs.cloudflare.com/ajax/libs/processing.js/1.4.16/processing.js" type="text/javascript"></script>
 ```
 
 ### Include JQuery
 
-```
+```html
 <script src="https://code.jquery.com/jquery-2.1.4.js" type="text/javascript"></script>
 ```
 
 ### Include Bootstrap CSS
-```
+```html
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
 ```
 
