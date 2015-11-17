@@ -22,6 +22,17 @@ Your browser is a general purpose tool that can render HTML/CSS/JS. But that HTM
 
 In your git repository folder create a new file called ```ka_port.html```. In your text editor, just save the empty file you currently have open.
 
+Add the normal HTML boilerplate
+
+```html
+<html>
+<head>
+  <title>Khan Academy Port</title>
+<body>
+</body>
+</html>
+```
+
 # Port Khan Academy: Intro to JS Code
 For the first page you are going to **port** one of you *Khan Academy Intro to JS* Projects to this repo. To **port** means to take code from one place, and trasnfer it somewhere else. In our case, you will take code from your Khan Academy workspace and move it to this repository.
 
