@@ -28,6 +28,7 @@ Add the normal HTML boilerplate
 <html>
 <head>
   <title>Khan Academy Port</title>
+</head>
 <body>
 </body>
 </html>
