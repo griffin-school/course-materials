@@ -1,6 +1,6 @@
 # Project: Make a Wepage!
 
-You have been teaching yourself to program all semester and now you finally get to build something cool! Each of you are going to make your own wepage! 
+You have been teaching yourself to program all semester and now you finally get to build something cool! Each of you are going to make your own wepage.
 
 ## Create a Git/Github Repo for the Wepage
 First things first. You're going to create a Git/Github repository to store your code. Using github will allow you to have free, low hastle, public hosting of your site.
