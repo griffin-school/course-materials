@@ -70,7 +70,7 @@ Whenever the broswer renders a webpage, it starts at the top and goes through al
 <script type="text/javascript">
 $(document).ready(function() {
 // Put Khan Academy Code in here
-])
+});
 </script>
 ```
 
@@ -87,7 +87,7 @@ $(document).ready(function() {
   new Processing(canvas, function(processing) {
     // You're Khan Academy Code goes here
   };
-])
+});
 </script>
 ```
 
@@ -115,7 +115,7 @@ new Processing(canvas, function(processing) {
   ....
   
   };
-])
+});
 </script>
 ```
 
