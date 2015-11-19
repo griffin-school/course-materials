@@ -147,7 +147,7 @@ Now reload the page. It should be working as it did before.
 # Slideshow
 ![introduction-to-programming-slide-show](https://cloud.githubusercontent.com/assets/12886386/11261273/7fff5d52-8e38-11e5-80b7-d2577a665940.gif)
 
-For the homepage you will need to build a slideshow of screenshots of the work you've done this semester.
+For the homepage you will need to build a slideshow of screenshots of the work you've done this semester. For the slideshow, you will experience what it's like to develop software in the "real world". You will have a list of requirements and an example/mock-up, and you will have to figure out how to make it happen.
 
 ### Slideshow requirements
 * The slideshow must have at least 10 screenshots of the work you've done in Khan Academy and Codeacademy
