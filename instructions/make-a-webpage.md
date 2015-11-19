@@ -112,6 +112,7 @@ Then you have to update all of the calls to the built in processing functions (`
 $(document).ready(function() {
 var canvas = document.getElementById("my-drawing");
 new Processing(canvas, function(processing) {
+    console.log("Started function");
     processing.setup = function() {
       processing.size(600,500);
     };
@@ -121,14 +122,16 @@ new Processing(canvas, function(processing) {
     var sunRadius = 100;
 
     processing.draw = function() {
+        console.log("Started draw function");
         processing.background(184, 236, 255);
         
         processing.fill(255, 170, 0);
         processing.ellipse(200, 100, sunRadius, sunRadius);
   
   ....
+  console.log("ended");
   
-  };
+  });
 });
 </script>
 ```
