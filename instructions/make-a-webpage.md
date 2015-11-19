@@ -35,6 +35,8 @@ Add the normal HTML boilerplate
 ```
 
 # Port Khan Academy: Intro to JS Code
+![introduction-to-programming-ka-port](https://cloud.githubusercontent.com/assets/12886386/11261291/a2a26c6e-8e38-11e5-8d27-604fad905dde.gif)
+
 For the first page you are going to **port** one of you *Khan Academy Intro to JS* Projects to this repo. To **port** means to take code from one place, and trasnfer it somewhere else. In our case, you will take code from your Khan Academy workspace and move it to this repository.
 
 ## Processing.js
@@ -141,3 +143,39 @@ Open up a new tab in your text editor and copy all of the JS in the **script** t
 ```
 
 Now reload the page. It should be working as it did before.
+
+# Slideshow
+![introduction-to-programming-slide-show](https://cloud.githubusercontent.com/assets/12886386/11261273/7fff5d52-8e38-11e5-80b7-d2577a665940.gif)
+
+For the homepage you will need to build a slideshow of screenshots of the work you've done this semester.
+
+### Slideshow requirements
+* The slideshow must have at least 10 screenshots of the work you've done in Khan Academy and Codeacademy
+* You cannot use an existing slideshow library but you can and should Google for ideas
+* You must have a "stop/start" button of some kind. In my example, clicking anywhere on the images stops and restarts the slideshow
+* You have to have some kind of transation between slides like fade-in or slide-in.
+* You can work with one partner on the slideshow code but everyone must have their own webpage, with slides of their own work, in their own repo
+
+# Header
+Pretty much every site that you'll ever go to has a consistent header at the top of the page. It really goes a long way towards makeing random pages have continuity. Also, the header is often used as a consistent place to store navigation so the user can easily navigate from any page.
+
+### Khan Academy
+![screen shot 2015-11-18 at 9 26 11 pm](https://cloud.githubusercontent.com/assets/12886386/11261538/2c8e8cbc-8e3b-11e5-9f68-9d1f8c796e54.png)
+
+### Github
+![screen shot 2015-11-18 at 9 25 20 pm](https://cloud.githubusercontent.com/assets/12886386/11261547/364a3e90-8e3b-11e5-9cee-13610712c25d.png)
+
+### Google
+![screen shot 2015-11-18 at 9 25 32 pm](https://cloud.githubusercontent.com/assets/12886386/11261541/300ae2e6-8e3b-11e5-9264-d839fd94094b.png)
+
+## Requirements
+![header](https://cloud.githubusercontent.com/assets/12886386/11261549/39be7bcc-8e3b-11e5-9607-83c4fa0f3933.png)
+
+For each of your wepabes in this project you must have a consistent header with:
+* Navigation links to the **Slideshow**, **Khan Academy Port**, and **Blog**
+* A picture of yourself and your name
+
+# Don't forget
+* Don't forget to continually commit your code and push it to Github
+* Don't forget to Google for answers and suggestions if you get stuck
+* Don't forget to ask me questions!
