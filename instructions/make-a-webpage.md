@@ -100,7 +100,7 @@ $(document).ready(function() {
   var canvas = document.getElementById("my-drawing");
   new Processing(canvas, function(processing) {
     // You're Khan Academy Code goes here
-  };
+  });
 });
 </script>
 ```
