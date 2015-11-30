@@ -189,7 +189,7 @@ Suggestions for retrospective things to write about:
 * What didn't go well, if anything
 * What you want to learn next
 
-## Requirements
+### Requirements
 * The post is in narrative form
 * The post takes the reader through your experience in the class
 * The post has 4 - 5 paragraphs
