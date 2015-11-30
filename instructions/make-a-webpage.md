@@ -171,12 +171,30 @@ Pretty much every site that you'll ever go to has a consistent header at the top
 ### Google
 ![screen shot 2015-11-18 at 9 25 32 pm](https://cloud.githubusercontent.com/assets/12886386/11261541/300ae2e6-8e3b-11e5-9264-d839fd94094b.png)
 
-## Requirements
+####  Requirements
 ![header](https://cloud.githubusercontent.com/assets/12886386/11261549/39be7bcc-8e3b-11e5-9607-83c4fa0f3933.png)
 
 For each of your wepabes in this project you must have a consistent header with:
 * Navigation links to the **Slideshow**, **Khan Academy Port**, and **Blog**
 * A picture of yourself and your name
+
+# Self Assesment Blog Posts
+I beleive you all have been writing self assesments for other classes this semester already. In software development, this kind of activity is called a *retrospective* and typically happens once per month. For this class, you will write a self assessment in the form of a blog post that chronicles your progress throughout the semester. 
+
+Suggestions for retrospective things to write about: 
+* What you learned 
+* What you liked
+* What you didn't like, if anything
+* What went well 
+* What didn't go well, if anything
+* What you want to learn next
+
+## Requirements
+* The post is in narrative form
+* The post takes the reader through your experience in the class
+* The post has 4 - 5 paragraphs
+* The post is 300 - 500 words
+* The post is retrospective. See suggestions about
 
 # Don't forget
 * Don't forget to continually commit your code and push it to Github
