@@ -179,7 +179,7 @@ For each of your wepabes in this project you must have a consistent header with:
 * A picture of yourself and your name
 
 # Self Assesment Blog Posts
-I beleive you all have been writing self assesments for other classes this semester already. In software development, this kind of activity is called a *retrospective* and typically happens once per month. For this class, you will write a self assessment in the form of a blog post that chronicles your progress throughout the semester. 
+I believe you all have been writing self assesments for other classes this semester already. In software development, this kind of activity is called a *retrospective* and typically happens once per month. For this class, you will write a self assessment in the form of a blog post that chronicles your progress throughout the semester. 
 
 Suggestions for retrospective things to write about: 
 * What you learned 
@@ -199,4 +199,5 @@ Suggestions for retrospective things to write about:
 # Don't forget
 * Don't forget to continually commit your code and push it to Github
 * Don't forget to Google for answers and suggestions if you get stuck
+* Don't forget to use debugging techiques like print debugging ```console.log("log statement");```
 * Don't forget to ask me questions!
