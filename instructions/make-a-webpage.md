@@ -99,7 +99,7 @@ First you have to select the **canvas** element by id. Then you have to create a
 $(document).ready(function() {
   var canvas = document.getElementById("my-drawing");
   new Processing(canvas, function(processing) {
-    // You're Khan Academy Code goes here
+    // Your Khan Academy Code goes here
   });
 });
 </script>
